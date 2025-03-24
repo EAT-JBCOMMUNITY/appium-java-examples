@@ -26,14 +26,14 @@
             </class>
         </classes>
     </test>
-    <test name="Android Tests on Mobile Browsers" enabled="false">
+    <!--test name="Android Tests on Mobile Browsers" enabled="false">
         <classes>
             <class name="io.github.mfaisalkhatri.android.tests.AndroidTests">
                 <methods>
                     <exclude name="testChrome"/>
-                    <!--include name="testFirefoxBrowser"/-->
+                    <include name="testFirefoxBrowser"/>
                 </methods>
             </class>
         </classes>
-    </test>
+    </test-->
 </suite> <!-- Suite -->
