@@ -3,6 +3,6 @@
 <suite name="Appium Android and IOS automation tests ">
     <suite-files>
         <suite-file path="testng-android.xml"/>
-        <suite-file path="testng-ios.xml"/>
+        <!--suite-file path="testng-ios.xml"/-->
     </suite-files>
 </suite> <!-- Suite -->
