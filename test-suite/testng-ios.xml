@@ -5,13 +5,13 @@
         <classes>
             <class name="io.github.mfaisalkhatri.ios.tests.IOSTests">
                 <methods>
-                    <include name="testHomePageTitle"/>
+                    <!--include name="testHomePageTitle"/>
                     <include name="testForm"/>
                     <include name="testSwipeOnElement"/>
                     <include name="testSwipeTillElement"/>
                     <include name="testWebView"/>
                     <include name="testSwipeAndFindElement"/>
-                    <include name="testDragAndDrop"/>
+                    <include name="testDragAndDrop"/-->
                 </methods>
             </class>
         </classes>
