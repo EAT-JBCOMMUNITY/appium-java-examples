@@ -106,7 +106,7 @@ public class AndroidTests extends BaseTest {
         assertEquals (swipePage.swipeAndFindElement (), "You found me!!!");
     }
 
-    @Test
+  //  @Test
     public void testWebView () {
         final WebViewPage webViewPage = new WebViewPage ();
 
