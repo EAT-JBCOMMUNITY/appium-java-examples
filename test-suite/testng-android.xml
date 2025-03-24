@@ -31,7 +31,7 @@
             <class name="io.github.mfaisalkhatri.android.tests.AndroidTests">
                 <methods>
                     <exclude name="testChrome"/>
-                    <include name="testFirefoxBrowser"/>
+                    <!--include name="testFirefoxBrowser"/-->
                 </methods>
             </class>
         </classes>
